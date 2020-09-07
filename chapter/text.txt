@@ -1,0 +1,10 @@
+# 读取一行内容 遇见换行则终止
+# 如果指定size 则读取size大小的内容
+# 再次调用则接着到一行结束
+# data = fd.readline(3)
+# data = fd.readline()  # 读取一行中剩余的内容
+# print(data)
+
+
+# 读取内容作为列表返回
+# data = fd.readlines()
